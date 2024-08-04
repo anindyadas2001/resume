@@ -10,10 +10,10 @@ Linkedin link : [www.linkedin.com/in/anindyadas2001](http://www.linkedin.com/in/
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 **Skills :**  
 **Programming Languages:** C++, Java, Python3 \- \- \- \- \- \- \- \- [hackerrank.com/profile/dasanindya2001](http://hackerrank.com/profile/dasanindya2001)  
-**Database:** MySQL, PostgreSQL, Power Bi, Microsoft Excel  <! , Google Workspace, Tableau, Microsoft Office Suite, Access, Oracle DB, Big Data > 
-**Linux:** Shell /Bash, File System, core utilities   , KVM, Debian/RHEL, Linux system administration, Automation scripting  
-**Networking & Security:** VPN, TCP/IP addressing , SSH  , IDS/IPS, Server management, System performance tuning  
-**CI/CD Pipeline**:  GitLab, AWS, Docker, Kubernetes , Ansible, EC2, S3, RDS, VPC, IAM, ECR/EKS, Code Commit  
+**Database:** MySQL, PostgreSQL, Power Bi, Microsoft Excel <!---, Google Workspace, Tableau, Microsoft Office Suite, Access, Oracle DB, Big Data  --> 
+**Linux:** Shell /Bash, File System, core utilities<!---, KVM, Debian/RHEL, Linux system administration, Automation scripting -->
+**Networking & Security:** VPN, TCP/IP addressing , SSH <!--- , IDS/IPS, Server management, System performance tuning -->
+**CI/CD Pipeline**:  GitLab, AWS, Docker, Kubernetes <!--- , Ansible, EC2, S3, RDS, VPC, IAM, ECR/EKS, Code Commit -->
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 **Projects :**
 
