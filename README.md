@@ -5,9 +5,9 @@ Linkedin link : [www.linkedin.com/in/anindyadas2001](http://www.linkedin.com/in/
 
 **Education :**  
 **JIS College of Engineering**  
-	**Degree:** [Bachelor of Technology](https://drive.google.com/file/d/1GJP9vs0YdzjBF8obn8i-ILzIDFV8QLx\_/view?usp=drive\_link)
-	**Program/Field:** Computer Science Engineering	
- 	**Duration:** August 2020 to May 2024
+	**Degree:** [Bachelor of Technology](https://drive.google.com/file/d/1GJP9vs0YdzjBF8obn8i-ILzIDFV8QLx\_/view?usp=drive\_link) 
+	**Program/Field:** Computer Science Engineering 
+ 	**Duration:** August 2020 to May 2024 
  	**Grade in CGPA:** 8.08  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 **Skills :**  
